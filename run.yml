@@ -1,0 +1,5 @@
+ - hosts: all
+   sudo: yes
+   user: root
+   roles:
+    - geerlingguy.ntp

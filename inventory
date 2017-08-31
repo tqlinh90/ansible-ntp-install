@@ -1,0 +1,3 @@
+[uni]
+dbqa ansible_ssh_host=210.245.115.62 ansible_ssh_port=14518 ansible_user=root
+localhost
